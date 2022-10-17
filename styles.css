@@ -1,0 +1,40 @@
+body{
+    padding:0px;
+    margin: 0 auto;
+    background-color: #B79E9E;
+}
+
+.header, .footer{
+    text-align: center;
+    position: fixed;
+    width: 100%;
+}
+
+.header{
+    top: 0;
+    background-color: #E0BFBF;
+}
+
+h1 {
+    margin: 1.5% 0;
+    font-size: 45px;
+    letter-spacing: 4px;
+}
+
+h2 {
+    font-family: Papyrus;
+    font-size: 20px;
+    color: white;
+    word-spacing: 10px;
+    letter-spacing: 2px;
+}
+
+.footer {
+    bottom:0;
+}
+
+.footer p {
+    letter-spacing: 15px;
+    font-weight: bolder;
+    font-size: 15px;
+}
